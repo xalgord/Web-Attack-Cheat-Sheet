@@ -1799,6 +1799,9 @@ https://github.com/evilsocket/audit
 https://gist.github.com/evilsocket/321cece82ec80c17d9126f5c035bc2ea
 <br># You are an expert software engineer and offensive security practitioner conducting a security audit of this codebase. Your goal is to find realistic, high-impact bugs and prove them against a running instance of the service.
 
+https://github.com/xalgorix/xalgorix
+<br># Xalgorix is an autonomous, black-box AI pentester for web apps and APIs. It works through a 22-phase methodology, exploits what it finds, then has an independent verifier re-test each finding before reporting it.
+
 ## General<a name="general_all"></a>
 <br># Print only response headers for any method with curl
 <br>```curl -skSL -D - https://www.example.com -o /dev/null```
